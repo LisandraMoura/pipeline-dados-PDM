@@ -1,2 +1,2 @@
-# pipeline-dados-PDM
-# Pipeline construído para a disciplina de Processamento Massivo de Dados
+# Projeto final Processamento de dados massivos
+
