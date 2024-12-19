@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clustering App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Clustering App</h1>
+    </header>
+    <main>
+        <p>Esta aplicação permite realizar <strong>clustering</strong> em dados fornecidos e fazer inferências.</p>
+        <p>Você pode:</p>
+        <ul>
+            <li>Treinar o modelo enviando dados do Google Cloud Storage.</li>
+            <li>Fazer previsões com base em características fornecidas.</li>
+        </ul>
+        <p>Use os endpoints disponíveis para interagir com o modelo:</p>
+        <p><a href="/train">Treinar Modelo</a> | <a href="/predict">Fazer Previsão</a></p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Clustering App - Powered by Flask</p>
+    </footer>
+</body>
+</html>

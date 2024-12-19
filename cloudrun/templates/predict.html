@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fazer Inferência</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        form {
+            margin: 20px auto;
+            width: 300px;
+            text-align: left;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        button {
+            background: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fazer Inferência</h1>
+    </header>
+    <main>
+        <form method="POST" action="/predict">
+            <label for="proporcao_negros">Proporção Negros/Pardos/Indígenas:</label>
+            <input type="number" step="0.01" id="proporcao_negros" name="Proporcao_negros_pardos_indigenas" placeholder="Ex.: 0.45" required>
+            
+            <label for="proporcao_feminino">Proporção Feminino:</label>
+            <input type="number" step="0.01" id="proporcao_feminino" name="Proporcao_feminino" placeholder="Ex.: 0.55" required>
+            
+            <label for="renda">Renda:</label>
+            <input type="number" id="renda" name="RENDA" placeholder="Ex.: 2500" required>
+            
+            <button type="submit">Fazer Inferência</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Clustering App - Powered by Flask</p>
+    </footer>
+</body>
+</html>
