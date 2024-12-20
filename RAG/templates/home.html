@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG App</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        header { background: #007BFF; color: white; padding: 10px; }
+        main { padding: 20px; }
+        footer { background: #222; color: white; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+        a { color: #007BFF; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RAG App</h1>
+    </header>
+    <main>
+        <p>Use a aplicação para:</p>
+        <ul>
+            <li>Consultar informações (Retrieve)</li>
+            <li>Avaliar respostas com LLM (Evaluate)</li>
+        </ul>
+        <p><a href="/retrieve">Consulta</a> | <a href="/evaluate">Avaliar</a></p>
+    </main>
+    <footer>
+        <p>&copy; 2024 RAG App - Powered by Flask</p>
+    </footer>
+</body>
+</html>

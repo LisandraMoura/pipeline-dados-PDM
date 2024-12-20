@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluate</title>
+</head>
+<body>
+    <h1>Avaliação com LLM</h1>
+    <form method="POST" action="/evaluate">
+        <label for="query">Digite sua consulta:</label>
+        <input type="text" id="query" name="query" placeholder="Ex.: Eleição 2024" required>
+        <button type="submit">Avaliar</button>
+    </form>
+    {% if resposta %}
+    <h2>Resposta Avaliada:</h2>
+    <p>{{ resposta }}</p>
+    {% endif %}
+</body>
+</html>
