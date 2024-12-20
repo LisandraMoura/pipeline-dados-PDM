@@ -1,0 +1,79 @@
+﻿* Quantidade de Votos por Partido de 2016:
+Em 2016 as coligações ficaram em primeiro lugar em Goiânia com 196.470 votos,
+MDB em segundo com 59.289 votos, UNIÃO em terceiro com 58.191 votos e DC em quarto lugar com 56.591. 
+Os partidos que obtiveram a menor quantidade de votos foram PBC com 179 votos, PP com 4162, REDE com 4630 e AVANTE com 6556.
+
+
+   * Quantidade de Votos por Partido de 2020:
+
+
+Em 2020 as coligações ficaram novamente em primeiro lugar, com 176.142 votos, MBD com 73740, Republicanos 38397, PSD com 31635 e PRTB com 26580 votos.
+Os partidos que obtiveram a menor quantidade de votos foram PCB com 312 votos, UP com 1218, REDE com 3335, Mobiliza com 7771 e PCdoB com 8557 votos.
+
+
+
+
+   * Quantidade de Votos por Partido de 2024:
+
+
+Em 2024 os partidos que obtiveram maior quantidade de votos foram MDB com 99186, PL com 63382, Coligações 53673, PRD 51773 e PT 45990.
+Os partidos que obtiveram a menor quantidade de votos foram CIDADANIA 317 votos, PV 435, UP 663, REDE 1054 e PCdoB 2640.
+
+
+   * Quantidade de Mulheres que Votaram nos Partidos de 2016:
+
+
+Em 2016 os partidos que mais obtiveram votos femininos foram Coligações com aproximadamente 66 mil votos, MDB com aproximadamente 19 mil votos e UNIÃO com aproximadamente 19 mil votos.
+Os partidos que obtiveram a menor quantidade de votos femininos foram PCB
+ com aproximadamente 63 votos, PP com aproximadamente 1395
+ votos e REDE com aproximadamente 1640 votos.
+
+
+   * Quantidade de Mulheres que Votaram nos Partidos de 2020:
+
+
+Em 2016 os partidos que mais obtiveram votos femininos foram Coligações com aproximadamente 61 mil votos, MDB com aproximadamente 25 mil votos e REPUBLICANOS com aproximadamente 14 mil votos.
+Os partidos que obtiveram a menor quantidade de votos femininos foram PCB
+ com aproximadamente 115 votos, UP com aproximadamente 437
+ votos e REDE com aproximadamente 1127 votos.
+
+
+   * Quantidade de Mulheres que Votaram nos Partidos de 2024:
+Em 2020 os partidos que mais obtiveram votos femininos foram MDB com aproximadamente 35 mil votos, PL com aproximadamente 25 mil votos e Coligações com aproximadamente 19 mil votos.
+Os partidos que obtiveram a menor quantidade de votos femininos foram Cidadania com aproximadamente 108 votos, PV com aproximadamente 166 votos e UP com aproximadamente 240 votos.
+
+
+
+
+   * 1. Quantidade de Negros que Votaram nos Partidos por Ano
+   * Descrição: Baseia-se na proporção de negros, pardos e indígenas em cada subdistrito e o total de votos.
+   * Quantidade de eleitores Negros, pardos ou indigenas Votaram nos Partidos 2016:
+Partidos mais votados por eleitores negros:
+1. Coligações: 55.354 votos.
+2. DC: 16.986 votos.
+3. MDB: 16.551 votos.
+Partidos menos votados por eleitores negros:
+2. PCB: 57 votos.
+3. PP: 1.143 votos.
+4. REDE: 1.380 votos.
+   * Quantidade de eleitores Negros, pardos ou indigenas que Votaram nos Partidos 2020:
+Partidos mais votados por eleitores negros:
+1. Coligações: 51.868 votos.
+2. MDB: 21.884 votos.
+3. REPUBLICANOS: 12.322 votos.
+Partidos menos votados por eleitores negros:
+5. PCB: 94 votos.
+6. UP: 337 votos.
+7. REDE: 909 votos.
+
+
+   * Quantidade de eleitores Negros, pardos ou indigenas que Votaram nos Partidos 2024:
+
+Partidos mais votados por eleitores negros:
+   1. MDB: 30.770 votos.
+   2. PL: 19.040 votos.
+   3. Coligações: 16.349 votos.
+Partidos menos votados por eleitores negros:
+   1. CIDADANIA: 91 votos.
+   2. PV: 125 votos.
+   3. UP: 195 votos.
