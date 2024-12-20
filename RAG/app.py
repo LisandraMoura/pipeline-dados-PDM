@@ -7,8 +7,8 @@ from hugchat.login import Login
 import time
 
 # Configurações de login
-EMAIL = "hdsdosol@gmail.com"
-PASSWD = "Lisa2210@"
+EMAIL = ""
+PASSWD = ""
 cookie_path_dir = "./cookies/"  # O diretório onde os cookies serão salvos
 
 # Realiza o login no HuggingChat e configura o chatbot
